@@ -11,6 +11,7 @@ The dataset used for this project contains four columns of unstructured text, wh
 - 'Epicrisis - Physical examination - Content',
 - 'Epicrisis - Medical recommendations - Content',
 - 'Principal disease-Disease code'.
+- 
 All medical documentation was prepared in Polish. For the purpose of making the project publicly available, all column names have been translated into English.
 
 **The diagnoses in the last column are according to ICD-10 -International Statistical Classification of Diseases and Health Problems.**
